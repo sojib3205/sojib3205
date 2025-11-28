@@ -91,7 +91,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Sojib's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sojib3205&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sojib's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sojib3205&custom_title=Sojib's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
